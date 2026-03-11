@@ -129,12 +129,22 @@ The application allows users to:
 	•	Receive a prediction indicating Normal or Cancer
 
 
+## Model File
+
+The trained model is not included in this repository due to GitHub file size limitations.
+
+You can download the trained model here:
+https://drive.google.com/drive/folders/1f_OoH3nJ-7lrGd8_J_Np8udp3h6szR5B?usp=drive_link
+
+After downloading the model, place it in the project folder before running the Streamlit application.
 
 
 
 # Running the Application
 
 Follow these steps to run the Streamlit application.
+
+MAKE SURE THAT THE MODEL IS IN THE SAME PLACE AS THE APP.PY AND REQUIREMENTS.TXT
 
 Clone the repository
 
