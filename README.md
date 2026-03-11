@@ -154,6 +154,9 @@ Navigate to the project folder
 
 cd CM3070-FINAL-PROJECT-BREAST-CANCER-DETECTION-
 
+Navigate to the project folder
+cd "CM3070 FINAL SUBMISSION"
+
 Create a virtual environment
 
 python -m venv venv
